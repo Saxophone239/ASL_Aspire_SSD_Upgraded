@@ -1,0 +1,1557 @@
+fileFormatVersion: 2
+guid: bb6f6fcb94fa41e49a4bde89eb6c7e38
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5224
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4992784412ffba428ba95a2e3253f2c
+      internalID: 872192914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_1
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 5224
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb280629aa685084fb48ad25680e9851
+      internalID: 411452468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_2
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 5224
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e97c4b927bf84b42880516046f112ca
+      internalID: -1874942892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_3
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 5224
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62266e5b7c9c74498690d18d99bb61f
+      internalID: -1970641763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_4
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 5224
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32308f7d272a39b4297667da0d2f897b
+      internalID: 1661158423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_5
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 5224
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1abfe373e3ca35498d1add7cdea86e7
+      internalID: 191482580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_6
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 5224
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55daafa063b02ea458884d1e028297c8
+      internalID: -622152826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4571
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2847cf3fc39684e8cb584c078b87eb
+      internalID: -1333363952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_8
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 4571
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66c6066feba3c941b0dc856520551c6
+      internalID: 1320613917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_9
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 4571
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10209e17da069a14ca0491162a617841
+      internalID: 1032590398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_10
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 4571
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a644ed5104abd48b5e0e1bdde975c0
+      internalID: -877385676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_11
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 4571
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c790fb8f6174f4489f8e02e7c3c218
+      internalID: -981767192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_12
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 4571
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417f147df1aa64c4b94f8a985338264c
+      internalID: -1617813183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_13
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 4571
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fd5a4fc3ef02a4080b92460f07ad97
+      internalID: 340792738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3918
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2cc706415198042a520153d298a7ed
+      internalID: -548903887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_15
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 3918
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0aa9fe4446e2ed4c901f0d4d0f79c68
+      internalID: -644447460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_16
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 3918
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1381371c6f5ee43845054428115134
+      internalID: 19840646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_17
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 3918
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03726d59656078646b84e738a341aa96
+      internalID: 138725698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_18
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 3918
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1669dab80788f0408809e3711808f8f
+      internalID: -2103265922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_19
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 3918
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4425c99e8e101d49aff62edfb09af99
+      internalID: -584331477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_20
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 3918
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e285c7f29f50a7d4ebd48d3e899da572
+      internalID: -1032164575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3265
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504d285fd7f21444bbb0ed6c894d6668
+      internalID: -850905645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_22
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 3265
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420eb37f7e21ce044b41bdee423226c0
+      internalID: -1193634845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_23
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 3265
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5432d82dd8e5f6142a5d2294d5697fee
+      internalID: 1018867963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_24
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 3265
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989e69e0b567e0e488a576e48ccc6e32
+      internalID: 1310708878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_25
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 3265
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c0b0b4e9afa52438ce7b0e96eecf7b
+      internalID: -1635612940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_26
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 3265
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0daaeca35cf8e4cb2e082ae0a00405
+      internalID: -1461909678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_27
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 3265
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d98b5026adf288419176bc0cefae06e
+      internalID: 1772621360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2612
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1965bcf1352be14aa19b7c76ebad87c
+      internalID: -662837877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_29
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2612
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afdd90dd623c7d44bdcc6a1fd2f3782
+      internalID: -885695294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_30
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 2612
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c128b92259f6449a84c451efa91e04
+      internalID: -2114980458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_31
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 2612
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b25ecdfa60fe4478da96bf056c3d54
+      internalID: 238949067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_32
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 2612
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a6319b3cf302847b6a4fa53c3737a2
+      internalID: -490284134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_33
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 2612
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6370e72c641a74e832b44f18c7fc48
+      internalID: 933363972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_34
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 2612
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22b96143b473e84d924ad863cfeaa5a
+      internalID: 1839705470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1959
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6700857b252d094c82cf40bc26b93a8
+      internalID: 536859188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_36
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1959
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbe6cf0e1a13034eb6ca8a5e76dc9b2
+      internalID: -317099895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_37
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1959
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7100a23650914b14a96c99c858cff24f
+      internalID: 1206527577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_38
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1959
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef658ef621384545b2ef48728dd11ca
+      internalID: 1736670814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_39
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 1959
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e34eed4eb68984d9c65c8ab861b7f0
+      internalID: -1954332297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_40
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 1959
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8920128b766951044919847d6d773949
+      internalID: -1837380403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_41
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 1959
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343f800ce5e507c4ab5fb3849ae67373
+      internalID: -395195142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1306
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c3a8f2fbcb61e448ab6eca118d15ec
+      internalID: -235460733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_43
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1306
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d3ce00a9fdee741843cd0b72ec79d1
+      internalID: 61438116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_44
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1306
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d628876832d308542b25eae8a1bcb842
+      internalID: 1165499210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_45
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1306
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30798be15fadf054fa68fb5978db5dcc
+      internalID: 1908797894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_46
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 1306
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e108321c05970e34aab6572b347492b2
+      internalID: -893899865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_47
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 1306
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119187179b301554b8f04e0b1954de62
+      internalID: -374370430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_48
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 1306
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7e63bb170944845a30d8440fb9a3e2
+      internalID: 662369207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 653
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbb0f003599eac488e8f8cf7f1e2e5c
+      internalID: -1581151512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_50
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 653
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b8342272d064e4989f9d6bf75b62d7
+      internalID: -1073173701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_51
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 653
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a30b9f0ba367c48bddefb979090d1c
+      internalID: 1555467352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_52
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 653
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19d26c7f45c0f64982da8e8d8d8b7b5
+      internalID: 2096960897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_53
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 653
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071de926d2b23d44bb0ca5794d61c379
+      internalID: 1459018254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_54
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 653
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d0f66045b431d46a6b225a2d750120
+      internalID: -374986513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_55
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 653
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e3e0b627d560e41a784dd1bd436258
+      internalID: -292930877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176341ab57cded243b6cd4f6ae21cc43
+      internalID: 1615223093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_57
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 0
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a17f2ab1f343d40b9509304015df7d
+      internalID: 140001336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_58
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 0
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f94de1b0b9ade4b90d496cad2e99cd
+      internalID: -1251072241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_59
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 0
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4471b559e5d8cf4478ede91553a0aaf6
+      internalID: -427459116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_60
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 0
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f3a448410e2b94283a1ad0171296af
+      internalID: -1741171895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_61
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 0
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c49e96924fc03b49b1640c02b75b82a
+      internalID: -1906061549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASL-Aspire-GIF_62
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 0
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11f42a44aa38794196d97a9d11370a0
+      internalID: 1252961458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ASL-Aspire-GIF_46: -893899865
+      ASL-Aspire-GIF_39: -1954332297
+      ASL-Aspire-GIF_25: -1635612940
+      ASL-Aspire-GIF_61: -1906061549
+      ASL-Aspire-GIF_7: -1333363952
+      ASL-Aspire-GIF_2: -1874942892
+      ASL-Aspire-GIF_1: 411452468
+      ASL-Aspire-GIF_40: -1837380403
+      ASL-Aspire-GIF_9: 1032590398
+      ASL-Aspire-GIF_34: 1839705470
+      ASL-Aspire-GIF_58: -1251072241
+      ASL-Aspire-GIF_15: -644447460
+      ASL-Aspire-GIF_29: -885695294
+      ASL-Aspire-GIF_62: 1252961458
+      ASL-Aspire-GIF_47: -374370430
+      ASL-Aspire-GIF_14: -548903887
+      ASL-Aspire-GIF_49: -1581151512
+      ASL-Aspire-GIF_24: 1310708878
+      ASL-Aspire-GIF_33: 933363972
+      ASL-Aspire-GIF_11: -981767192
+      ASL-Aspire-GIF_32: -490284134
+      ASL-Aspire-GIF_50: -1073173701
+      ASL-Aspire-GIF_31: 238949067
+      ASL-Aspire-GIF_5: 191482580
+      ASL-Aspire-GIF_37: 1206527577
+      ASL-Aspire-GIF_17: 138725698
+      ASL-Aspire-GIF_36: -317099895
+      ASL-Aspire-GIF_3: -1970641763
+      ASL-Aspire-GIF_4: 1661158423
+      ASL-Aspire-GIF_13: 340792738
+      ASL-Aspire-GIF_59: -427459116
+      ASL-Aspire-GIF_8: 1320613917
+      ASL-Aspire-GIF_35: 536859188
+      ASL-Aspire-GIF_21: -850905645
+      ASL-Aspire-GIF_26: -1461909678
+      ASL-Aspire-GIF_12: -1617813183
+      ASL-Aspire-GIF_0: 872192914
+      ASL-Aspire-GIF_44: 1165499210
+      ASL-Aspire-GIF_10: -877385676
+      ASL-Aspire-GIF_30: -2114980458
+      ASL-Aspire-GIF_22: -1193634845
+      ASL-Aspire-GIF_60: -1741171895
+      ASL-Aspire-GIF_27: 1772621360
+      ASL-Aspire-GIF_43: 61438116
+      ASL-Aspire-GIF_20: -1032164575
+      ASL-Aspire-GIF_42: -235460733
+      ASL-Aspire-GIF_41: -395195142
+      ASL-Aspire-GIF_48: 662369207
+      ASL-Aspire-GIF_55: -292930877
+      ASL-Aspire-GIF_6: -622152826
+      ASL-Aspire-GIF_45: 1908797894
+      ASL-Aspire-GIF_53: 1459018254
+      ASL-Aspire-GIF_51: 1555467352
+      ASL-Aspire-GIF_18: -2103265922
+      ASL-Aspire-GIF_16: 19840646
+      ASL-Aspire-GIF_23: 1018867963
+      ASL-Aspire-GIF_19: -584331477
+      ASL-Aspire-GIF_54: -374986513
+      ASL-Aspire-GIF_56: 1615223093
+      ASL-Aspire-GIF_38: 1736670814
+      ASL-Aspire-GIF_52: 2096960897
+      ASL-Aspire-GIF_28: -662837877
+      ASL-Aspire-GIF_57: 140001336
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
